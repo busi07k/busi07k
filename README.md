@@ -17,7 +17,7 @@ VERBOSE: Extracting metadata...
 [+] ID              : zrak51
 [+] Current_Focus   : Malware Development (MalDev) & EDR Evasion Techniques
 [+] Certifications  : Certified SOC Analyst [Windows Environment Specialization]
-[+] Status          : Compiling payloads / Analyzing telemetry...
+[+] Status          : Coding...
 [+] Execute         : ./continue_learning.exe --bypass-av
 ```
 
@@ -50,7 +50,7 @@ VERBOSE: Extracting metadata...
   <a href="mailto:zraky@2mail.co">
     <img src="https://img.shields.io/badge/Secure_Mail-zraky@2mail.co-000000?style=for-the-badge&logo=torproject&logoColor=00ff00" alt="Email" />
   </a>
-  <a href="https://github.com/Zrak51">
-    <img src="https://img.shields.io/badge/GitHub-Zrak51-000000?style=for-the-badge&logo=github&logoColor=00ff00" alt="GitHub" />
+  <a href="https://github.com/busi07k">
+    <img src="https://img.shields.io/badge/GitHub-busi07k-000000?style=for-the-badge&logo=github&logoColor=00ff00" alt="GitHub" />
   </a>
 </div>
