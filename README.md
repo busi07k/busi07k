@@ -17,8 +17,8 @@ VERBOSE: Extracting metadata...
 [+] ID              : zrak51
 [+] Current_Focus   :Soc Analyst, defensive cybersecurity and low level computer science
 [+] Certifications  : Certified SOC Analyst [Windows Environment Specialization]
-[+] Status          : Coding...
-[+] Execute         : ./continue_learning.exe --bypass-av
+[+] Status          : Reversing...
+[+] Execute         : ./continue_learning.exe Reading Assembly
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
