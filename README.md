@@ -25,7 +25,6 @@ VERBOSE: Extracting metadata...
 <div align="center">
 <img src="https://img.shields.io/badge/Cisco_CCNA-000000?style=for-the-badge&logo=cisco&logoColor=00ff00" alt="Cisco CCNA">
 <img src="https://img.shields.io/badge/Microsoft_Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=00ff00" alt="Azure">
-<img src="https://img.shields.io/badge/Active_Directory-000000?style=for-the-badge&logo=windows&logoColor=00ff00" alt="Active Directory">
   <br>
   <img src="https://img.shields.io/badge/Wireshark_PCAP-000000?style=for-the-badge&logo=wireshark&logoColor=00ff00" alt="Wireshark">
   <img src="https://img.shields.io/badge/Nmap_Scanning-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff00" alt="Nmap">
