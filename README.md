@@ -12,7 +12,7 @@ VERBOSE: Injecting into process...
 VERBOSE: Extracting metadata...
 
 [+] ID              : Ziane
-[+] Current_Focus   :Soc Analyst student and network engineering. 
+[+] Current_Focus   : Soc Analyst student and network engineering. 
 [+] Certifications  : Certified SOC Analyst [Windows Environment Specialization]
 [+] Status          : Learning Cisco 
 [+] Execute         : ./continue_learning.exe
