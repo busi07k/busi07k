@@ -11,11 +11,11 @@ PS C:\Users\NT_AUTHORITY> Invoke-ProfileDump -Target $Target -Verbose
 VERBOSE: Injecting into process...
 VERBOSE: Extracting metadata...
 
-[+] ID              : zrak51
-[+] Current_Focus   :Soc Analyst, defensive cybersecurity and low level computer science
+[+] ID              : Ziane
+[+] Current_Focus   :Soc Analyst student and network engineering. 
 [+] Certifications  : Certified SOC Analyst [Windows Environment Specialization]
-[+] Status          : Reversing...
-[+] Execute         : ./continue_learning.exe Reading Assembly
+[+] Status          : Learning Cisco 
+[+] Execute         : ./continue_learning.exe
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
