@@ -5,7 +5,7 @@
 Windows PowerShell
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-PS C:\Users\NT_AUTHORITY> $Target = Get-WmiObject -Class Win32_UserProfile | Where-Object { $_.LocalPath -match "zrak51" }
+PS C:\Users\NT_AUTHORITY> $Target = Get-WmiObject -Class Win32_UserProfile | Where-Object { $_.LocalPath -match "ziane" }
 PS C:\Users\NT_AUTHORITY> Invoke-ProfileDump -Target $Target -Verbose
 
 VERBOSE: Injecting into process...
