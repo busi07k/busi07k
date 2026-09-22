@@ -23,9 +23,9 @@ VERBOSE: Extracting metadata...
 ### [ SYS.ARSENAL ]
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff00" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00ff00" alt="C++">
-  <img src="https://img.shields.io/badge/x86_ASM-000000?style=for-the-badge&logo=gnu&logoColor=00ff00" alt="Assembly">
+<img src="https://img.shields.io/badge/Cisco_CCNA-000000?style=for-the-badge&logo=cisco&logoColor=00ff00" alt="Cisco CCNA">
+<img src="https://img.shields.io/badge/Microsoft_Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=00ff00" alt="Azure">
+<img src="https://img.shields.io/badge/Active_Directory-000000?style=for-the-badge&logo=windows&logoColor=00ff00" alt="Active Directory">
   <br>
   <img src="https://img.shields.io/badge/Wireshark_PCAP-000000?style=for-the-badge&logo=wireshark&logoColor=00ff00" alt="Wireshark">
   <img src="https://img.shields.io/badge/Nmap_Scanning-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff00" alt="Nmap">
